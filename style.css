@@ -1,0 +1,280 @@
+@import url('https://fonts.googleapis.com/css2?family=Koh+Santepheap:wght@300;400&family=Lora:ital,wght@0,400;1,700&family=Open+Sans:wght@300&display=swap');
+
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+    height: 80px;
+    text-transform: uppercase;
+    padding-top: 26px;
+    padding-bottom: 15px;
+    margin-top: 0;
+}
+
+.col-9{
+    padding: 0 0;
+}
+#nav-logo{
+    font-family: 'Lora', serif;
+    padding-top: 15px;
+    color:white;
+}
+.navbar{
+    padding: 0 1rem;
+}
+
+.left-arrow{
+    vertical-align: top;
+    padding-top: 3px;
+}
+
+.navbar a{
+    border-bottom: 2px solid rgba(250,250,250,0.05);
+}
+
+.navbar a:hover{
+    background-color: rgba(0,0,0,0.25);
+    border-bottom: 2px solid #fff;
+}
+
+
+.nav-icons:hover{
+    text-decoration: none;
+    color: #393939;
+}
+
+
+#headerBg {
+    height: 80px;
+    background-color: #53D3DEFF;
+}
+
+#banner{
+    height: 500px;
+}
+.banner-text{
+    padding-top: 170px;
+    color: #fff;
+}
+
+.banner-text h1{
+    color: white;
+    font-family: 'Lora', serif;
+    font-size: 45px;
+}
+.banner-text h2{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+.banner-text p{
+    color: white;
+    line-height: 27px;
+    font-size: 15px;
+}
+.btnBG{
+    margin-top: 30px;
+    margin-right: 25px;
+    color: white;
+    border: 1px solid #fff;
+    border-radius: 0px;
+}
+#price{
+    height: 700px;
+    background-color: #f4f4f4;
+}
+.price-text{
+    padding: 75px 0 45px 0;
+}
+.price-text h4{
+    font-size: 20px;
+    font-family: 'Lora', serif;
+}
+.price-text p{
+    font-size: 18px;
+    line-height: 10px;
+}
+.card-img-top{
+    width: 100px;
+    margin: 30px auto 0 auto;
+}
+.card-body h5{
+    font-family: 'Lora', serif;
+}
+.power {
+    display: inline-block;
+    margin-top: 10px;
+    vertical-align: top;
+    font-size: 20px;
+    font-weight: 400;
+}
+.duration {
+    font-size: 20px;
+}
+.value {
+    font-size: 65px;
+    font-weight: 700;
+    font-family: 'Lora', serif;
+    color: #53D3DEFF;
+}
+
+.priceBtn{
+    border-radius: 0;
+    background-color: #53D3DEFF;
+    border: 1px solid #53D3DEFF;
+    position: relative;
+    top: 40px;
+}
+
+.priceBtn:hover{
+    border-radius: 0;
+    background-color: #76d9e5;
+    border: 1px solid #76d9e5;
+}
+.priceBG{
+    background-color: grey;
+}
+
+#information{
+    height: 150px;
+    background-color: #1d8b94;
+}
+#informationText{
+    padding-top: 63px;
+}
+#information h4{
+    font-family: 'Lora', serif;
+    color: #fff;
+    font-size: 20px;
+}
+.infoBtn{
+    border-radius: 0;
+    background-color: #53D3DEFF;
+    border: 1px solid #53D3DEFF;
+}
+#select{
+    height: 700px;
+    background-color: #f4f4f4;
+}
+.select-text{
+    padding: 75px 0 45px 0;
+}
+.select-text h4{
+    font-size: 20px;
+    font-family: 'Lora', serif;
+}
+.select-text p{
+    font-size: 18px;
+    line-height: 10px;
+}
+.selectBtn{
+    border-radius: 0;
+    background-color: #53D3DEFF;
+    border: 1px solid #53D3DEFF;
+    position: relative;
+    top: 10px;
+}
+
+.selectBtn:hover{
+    border-radius: 0;
+    background-color: #76d9e5;
+    border: 1px solid #76d9e5;
+}
+.selectBG{
+    background-color: grey;
+}
+.baslik1{
+    height: 150px;
+    text-align: center;
+}
+.baslik1 h2{
+    font-size: 30px;
+    font-family: 'Lora', serif;
+    padding-top:55px ;
+}
+.baslik1 p{
+    font-size: 18px;
+    line-height: 10px;
+}
+#cards{
+    margin:20px auto 20px auto;
+}
+#cards img{
+    width: 350px;
+    height: 300px;
+    justify-content: center;
+}
+#cards h3{
+    padding: 8px;
+    padding-left: 45px;
+    font-size: 20px;
+}
+#boxs{
+    height: 800px;
+    background-color: #dddddd;
+}
+.btnBoxs{
+    border-radius: 0;
+    background-color: #53D3DEFF;
+    border: 1px solid #53D3DEFF;
+    margin-left: 480px;
+    margin-top: 50px;
+    
+}
+
+
+.contactBg .contactBgImg{
+    float:left;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+.contactBg{
+    margin-top: 60px;
+    
+}
+
+.call-mail-clock-map h5{
+    margin-right: 55px;
+}
+.call-mail-clock-map p{
+    font-size: 18px;
+    margin-right: 30px;
+}
+footer{
+    height: 600px;
+    background-color: rgb(65, 62, 62);
+}
+
+.footerBoxBg{
+    margin: 100px auto;
+    height: 400px;
+    width: 300px;
+    overflow: hidden;
+}
+.footerBoxBg h5{
+    color: #fff;
+    margin-top: 50px ;
+    margin-bottom: 50px;
+    
+}
+
+.footerBoxBg p{
+    color: rgb(207, 204, 204);
+    overflow:auto;
+}
+
+#footerBox i{
+    font-size: 25px;
+    margin-left:15px;
+    margin-top: 15px;
+    
+}
+hr{
+   background-color: rgb(141, 131, 131);
+}
+
+
+
+
+
+
